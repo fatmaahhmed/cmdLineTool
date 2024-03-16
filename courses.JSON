@@ -1,0 +1,28 @@
+[
+  {
+    "title": "js",
+    "price": "1000$",
+    "duration": "3 weeks"
+  },
+  {
+    "title": "python",
+    "price": "2000$",
+    "duration": "4 weeks"
+  },
+  {
+    "title": "react",
+    "price": "3200$",
+    "duration": "5 weeks"
+  },
+
+  {
+    "title": "nodeJs",
+    "price": "3200$",
+    "duration": "5 weeks"
+  },
+  {
+    "title": "ex",
+    "price": "3200$",
+    "duration": "5 weeks"
+  }
+]
